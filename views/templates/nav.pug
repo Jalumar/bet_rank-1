@@ -1,0 +1,32 @@
+nav(class="bet-navbar")
+  div(class="wrap-items-nav")    
+    button(type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false")
+      <i class="fas fa-bars"></i>
+        //- span(class="sr-only")= 'Toggle navigation'
+        //- span(class="icon-bar")
+        //- span(class="icon-bar")
+        //- span(class="icon-bar")
+    a(class="navbar-brand" href="/")
+      img(src='../images/betrank.png')
+    
+  div(class="wrap-items-nav" id="")     
+    ul(class="nav-item")
+      if !isAuthenticated            
+          li.sign-in
+            a(href="http://localhost:3000/auth/signin") <i class="fas fa-sign-in-alt"></i>&nbsp;<span>Iniciar Sesi&oacute;n</span>
+          li.register
+            a(href="http://localhost:3000/auth/signup") <i class="far fa-edit"></i>&nbsp;<span>Registro</span>
+          //- li
+          //-   a(href="http://localhost:3000/users/panel")= 'Perfil'
+      if isAuthenticated
+          li(class="dropdown")
+            a(href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false")= user.nombre
+              span(class="caret")
+            ul(class="dropdown-menu")
+              li
+                a(href="http://localhost:3000/auth/logout")= 'Cerrar Sesion'
+              li
+                a(href="http://localhost:3000/users/panel")= 'Perfil'              
+
+  div(class="container-menu-hide")
+    ul.wrap-list

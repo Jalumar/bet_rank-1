@@ -1,0 +1,53 @@
+{
+    "extension_description": {
+        "message": "COVID-19-Daten in Echtzeit abrufen"
+    },
+    "extension_title": {
+        "message": "Coronavirus-Erweiterung"
+    },
+    "title_first": {
+        "message": "Statistik"
+    },
+    "title_last": {
+        "message": "Koronavirus"
+    },
+    "confirmed": {
+        "message": "Fälle"
+    },
+    "recovered": {
+        "message": "Zurückgewonnen"
+    },
+    "deaths": {
+        "message": "Todesfälle"
+    },
+    "more": {
+        "message": "Weitere Länder auswählen"
+    },
+    "placeholder_search": {
+        "message": "Land..."
+    },
+    "all_world":{
+        "message": "Weltweit"
+    },
+    "delete":{
+        "message": "löschen"
+    },
+    "update":{
+        "message": "Aktualisiert"
+    },
+    "timezone":{
+        "message": "China Zeit"
+    },
+    "one_more_country":{
+        "message": "Wählen Sie ein Land"
+    },
+    "loading":{
+        "message": "Laden von..."
+    },
+    "find":{
+        "message": " ist bereits ausgewählt"  
+    },
+    "zone":{
+        "message": "Zone"
+    }
+}

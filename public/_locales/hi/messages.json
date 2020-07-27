@@ -1,0 +1,53 @@
+{
+    "extension_description": {
+        "message": "वास्तविक समय में 19 डेटा-लालच जाओ"
+    },
+    "extension_title": {
+        "message": "Coronavirus एक्सटेंशन"
+    },
+    "title_first": {
+        "message": "सांख्यिकी"
+    },
+    "title_last": {
+        "message": "Coronavirus"
+    },
+    "confirmed": {
+        "message": "मामलों"
+    },
+    "recovered": {
+        "message": "बरामद"
+    },
+    "deaths": {
+        "message": "मौतें"
+    },
+    "more": {
+        "message": "अधिक देशों का चयन करें"
+    },
+    "placeholder_search": {
+        "message": "देश..."
+    },
+    "all_world":{
+        "message": "दुनिया भर में"
+    },
+    "delete":{
+        "message": "मिटाएँ"
+    },
+    "update":{
+        "message": "नवीनीकृत"
+    },
+    "timezone":{
+        "message": "चीन समय"
+    },
+    "one_more_country":{
+        "message": "कोई देश चुनें"
+    },
+    "loading":{
+        "message": "लोड हो रहा है..."
+    },
+    "find":{
+        "message": " पहले से ही चयनित है"  
+    },
+    "zone":{
+      "message": "क्षेत्र"
+    }
+}

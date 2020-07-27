@@ -1,0 +1,332 @@
+@charset 'utf8';
+
+@font-face {
+  font-family: Bet-Regular;
+  src: url(../fonts/Epilogue-Regular.ttf);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Bet-Medium;
+  src:
+  url(../fonts/Epilogue-Medium.ttf);
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: Bet-Bold;
+  src: url(../fonts/Epilogue-SemiBold.ttf);
+  font-weight: 600;
+}
+
+:root{
+  --base-color: #ffffff;
+  --base-blue: #060913;
+  --base-bluelight: #5c80ff;
+}
+
+html,
+body {
+  max-height: 100vh;
+  min-height: 100vh;
+  width: 100%;
+}
+
+body{
+  align-content: space-between;
+  align-items: center;
+  background-color: #111725;
+  display: flex;
+  flex-flow: column nowrap; 
+  font-family: 'Bet-Regular',serif; 
+}
+
+.bet-navbar{
+  align-items: center;
+  background-color: #060913;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  height: 55px;  
+  padding-top: 7px;
+  position: relative;
+  width: 100%;
+}
+
+.wrap-items-nav{
+  align-items: center;
+  color: var(--base-color);
+  display: inline-flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  width: auto;
+}
+
+.navbar-toggle{
+  align-content: center;
+  align-items: center;
+  background-color: #000000 !important;
+  display: flex;
+  flex-flow: column nowrap; 
+  font-size: 30px; 
+  height: 55px;
+  margin-top: -5px;
+  min-height: 100% !important;
+  padding: 7px 12px;
+  position: relative;
+
+}
+
+.navbar-toggle .fa-bars{  
+  background-color: #000000 !important;
+  color: var(--base-color);  
+  display: inline;
+  margin: auto;
+}
+
+.navbar-brand{
+  margin-left: 15px;
+}
+
+.nav-item{
+  align-items: center;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+  height: auto;
+  width: auto;
+}
+
+.container-menu-hide{
+  position: absolute;
+}
+
+.nav-item li{
+  margin-right: 15px;
+}
+
+.sign-in > a{
+  border: 1px var(--base-bluelight) solid;
+  border-radius: 5px;
+  padding: 5px;
+  width: 121px;
+}
+
+.sign-in .fa-sign-in-alt{
+  color: var(--base-bluelight);
+}
+
+.register > a{   
+  align-items: center;
+  background-color: var(--base-bluelight);
+  border-radius: 5px;
+  display: inline-flex;  
+  flex-flow: row nowrap;
+  justify-content: center;
+  padding: 5px;  
+  width: 121px;
+}
+
+.register > a > span{
+  margin-top: 2px;
+}
+
+.bet-container{
+  align-content: center;
+  align-items: center;
+  display: flex;
+  flex-flow: column nowrap;
+  height: calc(100vh - 100px);
+  width: 100%;
+}
+
+.bet-section{
+  margin: auto;
+}
+
+.bet-frm{
+  width: 425px;
+}
+
+.bet-label{
+  color: var(--base-color);
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.frm-group-col,
+.frm-group-row{
+  background-color: var(--base-blue);
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.frm-group-row{
+  align-content: center;
+  align-items: center;
+  border-bottom: 1px #cccccc solid;
+  display: flex !important;
+  flex-flow: row nowrap !important;
+}
+
+.frm-group-row input{
+  align-items: center;
+  border-bottom: none;
+  display: inline-flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  width: auto;
+}
+
+.frm-group-row .frm-control:first-child{
+  height: 20px;
+  padding-left: 5px;
+  width: 44px;
+}
+
+.frm-group-row .frm-control:last-child{
+  padding: 0 10px 0 0;
+  width: 100%;
+}
+
+.frm-control{
+  background-color:  var(--base-blue);
+  border-bottom: 1px #cccccc solid;
+  color: var(--base-color);
+  height: 40px;
+  padding: 0 10px;
+  width: 100%;  
+}
+
+.frm-control:focus{
+  border-bottom: 1px var(--base-bluelight) solid;
+  color: var(--base-bluelight);
+}
+
+.frm-group-row input:focus{
+  border-bottom: none;
+  color: var(--base-bluelight);
+}
+
+.view-pass{
+  align-items: center;
+  color: #cccccc;
+  cursor: pointer;
+  display: flex;
+  flex-flow: row nowrap;
+  height: 100%;
+  justify-content: center;
+  position: absolute;
+  right: 5px;
+  top: 0;
+}
+
+#bet-flag{
+  cursor: auto;
+}
+
+/* AUTOCOMPLETE STYLES */
+
+.autocomplete {
+  /*the container must be positioned relative:*/
+  position: relative;
+  display: inline-block;
+}
+
+.autocomplete-items {
+  border-bottom: none;
+  border-top: none;
+  height: auto;
+  max-height: 110px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  position: absolute;
+  /*position the autocomplete items to be the same width as the container:*/
+  top: calc(100% + 2px);
+  left: 0;
+  right: 0;
+  z-index: 99;
+}
+
+.autocomplete-items div {
+  align-items: center;
+  color: var(--base-color);
+  padding: 10px;
+  cursor: pointer;
+  background-color: var(--base-blue);
+  border-bottom: 1px solid #111725;
+  display: flex;
+  flex-flow: row nowrap;
+  font-family: var(--title-thin);
+  font-size: 14px;
+  height: 37px;
+  justify-content: flex-start;
+  max-height: 37px;
+  min-height: 37px;
+  width: 100%;
+}
+
+.autocomplete-items div:hover,
+.autocomplete-active {
+  background-color: var(--base-bluelight);  
+}
+
+.flag{
+  cursor: auto;
+  width: 25px;
+}
+
+/* Scrollbars Styles for Autocomplete */
+.autocomplete-items::-webkit-scrollbar,
+.covid--container::-webkit-scrollbar {
+    -webkit-appearance: none;
+}
+
+.autocomplete-items::-webkit-scrollbar:vertical {
+    background-color: #000000;
+    width: 8px;
+}
+
+.covid--container::-webkit-scrollbar:vertical {
+    background-color: #000000;
+    width: 8px;
+}
+
+.autocomplete-items::-webkit-scrollbar-button:increment,
+.autocomplete-items::-webkit-scrollbar-button,
+.covid--container::-webkit-scrollbar-button:increment,
+.covid--container::-webkit-scrollbar-button {
+    display: none;
+}
+
+.autocomplete-items::-webkit-scrollbar:horizontal,
+.covid--container::-webkit-scrollbar:horizontal {
+    height: 8px;
+}
+
+.autocomplete-items::-webkit-scrollbar-thumb,
+.covid--container::-webkit-scrollbar-thumb {
+    background-color: var(--covid-red);
+    border-radius: 20px;
+    border: 1px solid #f1f2f3;
+}
+
+.autocomplete-items::-webkit-scrollbar-track,
+.covid--container::-webkit-scrollbar-track {
+    border-radius: 10px;
+}
+
+.bet-btn{
+  background-color: var(--base-bluelight);
+  border-radius: 26px;
+  color: var(--base-color);
+  font-size: 16px;
+  padding: 10px;
+  width: 100%;
+}
+
+.footer{
+  color: var(--base-color);
+  display: flex;
+  margin: auto;
+}

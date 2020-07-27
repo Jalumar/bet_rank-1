@@ -1,0 +1,53 @@
+{
+    "extension_description": {
+        "message": "கிடைக்கும் COVID-19 உண்மையான நேரத்தில் தரவு"
+    },
+    "extension_title": {
+        "message": "கொரோனாவைரஸ் நீட்டிப்பு"
+    },
+    "title_first": {
+        "message": "புள்ளியியல்"
+    },
+    "title_last": {
+        "message": "கொரோனாவைரஸ்"
+    },
+    "confirmed": {
+        "message": "வழக்குகள்"
+    },
+    "recovered": {
+        "message": "மீண்டு"
+    },
+    "deaths": {
+        "message": "மரணங்கள்"
+    },
+    "more": {
+        "message": "தேர்வு மேலும் நாடுகளில்"
+    },
+    "placeholder_search": {
+        "message": "நாடு..."
+    },
+    "all_world":{
+        "message": "உலகம் முழுவதும்"
+    },
+    "delete":{
+        "message": "நீக்கு"
+    },
+    "update":{
+        "message": "மேம்படுத்தப்பட்டது"
+    },
+    "timezone":{
+        "message": "அந்த நேரத்தில் சீனா"
+    },
+    "one_more_country":{
+        "message": "ஒரு நாடு தேர்ந்தெடுக்கவும்"
+    },
+    "loading":{
+        "message": "กำลังโหลด..."
+    },
+    "find":{
+        "message": " ถูกเลือกแล้ว"  
+    },
+    "zone": {
+        "message": "மண்டலம்"
+    }
+}

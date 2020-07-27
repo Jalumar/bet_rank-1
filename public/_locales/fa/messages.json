@@ -1,0 +1,53 @@
+{
+    "extension_description": {
+        "message": "دریافت اطلاعات طمع به چیزی داشتن 19 در زمان واقعی"
+    },
+    "extension_title": {
+        "message": "گسترش ویروس کرونا"
+    },
+    "title_first": {
+        "message": "امار"
+    },
+    "title_last": {
+        "message": "ویروس کرونا"
+    },
+    "confirmed": {
+        "message": "موارد"
+    },
+    "recovered": {
+        "message": "بهبود"
+    },
+    "deaths": {
+        "message": "مرگ و میر"
+    },
+    "more": {
+        "message": "کشورهای بیشتری را انتخاب کنید"
+    },
+    "placeholder_search": {
+        "message": "کشور..."
+    },
+    "all_world":{
+        "message": "سراسر جهان"
+         },
+    "delete":{
+        "message": "حذف"
+    },
+    "update":{
+        "message": "به روز شده"
+    },
+    "timezone":{
+        "message": "چین زمان"
+    },
+    "one_more_country":{
+        "message": "یک کشور انتخاب کنید"
+    },
+    "loading":{
+        "message": "در حال بارگذاری..."
+    },
+    "find":{
+        "message": " قبلاً انتخاب شده است"  
+    },
+    "zone":{
+      "message": "منطقه"
+    }
+}

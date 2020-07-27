@@ -1,0 +1,53 @@
+{
+    "extension_description": {
+        "message": "রিয়েল টাইমে ষোড়শ-19 তথ্য পান"
+    },
+    "extension_title": {
+        "message": "অভিষেক অনুষ্ঠান"
+    },
+    "title_first": {
+        "message": "পরিসংখ্যান"
+    },
+    "title_last": {
+        "message": "স্বয়ংক্রিয়"
+    },
+    "confirmed": {
+        "message": "বিষয়"
+    },
+    "recovered": {
+        "message": "উদ্ধার করা"
+    },
+    "deaths": {
+        "message": "মৃত্যুর"
+    },
+    "more": {
+        "message": "আরো দেশ নির্বাচন করুন"
+    },
+    "placeholder_search": {
+        "message": "দেশ..."
+    },
+    "all_world":{
+        "message": "বিশ্বব্যাপী"
+    },
+    "delete":{
+        "message": "মুছে ফেলা হবে"
+    },
+    "update":{
+        "message": "আপডেট করা হয়েছে"
+    },
+    "timezone":{
+        "message": "চীন সময়"
+    },
+    "one_more_country":{
+        "message": "একটি দেশ নির্বাচন করুন"
+    },
+    "loading":{
+        "message": "লোড করা হচ্ছে..."
+    },
+    "find":{
+        "message": " ইতিমধ্যে নির্বাচিত"  
+    },
+    "zone":{
+        "message": "মণ্ডল"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "extension_description": {
+        "message": "Krijg COVID-19 gegevens in real time"
+    },
+    "extension_title": {
+        "message": "Coronavirus uitbreiding"
+    },
+    "title_first": {
+        "message": "Statistieken"
+    },
+    "title_last": {
+        "message": "Coronavirus"
+    },
+    "confirmed": {
+        "message": "Gevallen"
+    },
+    "recovered": {
+        "message": "Hersteld"
+    },
+    "deaths": {
+        "message": "Sterfgevallen"
+    },
+    "more": {
+        "message": "Selecteer meer landen"
+    },
+    "placeholder_search": {
+        "message": "Land..."
+    },
+    "all_world":{
+        "message": "Wereldwijd"
+    },
+    "delete":{
+        "message": "Verwijder"
+    },
+    "update":{
+        "message": "Bijgewerkt"
+    },
+    "timezone":{
+        "message": "China Tijd"
+    },
+    "one_more_country":{
+        "message": "Selecteer een land"
+    },
+    "loading":{
+        "message": "Laden..."
+    },
+    "find":{
+        "message": " is al geselecteerd"
+    },
+    "zone":{
+      "message": "Zone"
+    }
+}

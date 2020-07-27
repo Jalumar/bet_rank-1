@@ -1,0 +1,53 @@
+{
+    "extension_description": {
+        "message": "Dapatkan data COVID-19 secara real time"
+    },
+    "extension_title": {
+        "message": "Ekstensi Coronavirus"
+    },
+    "title_first": {
+        "message": "Statistik"
+    },
+    "title_last": {
+        "message": "Coronavirus"
+    },
+    "confirmed": {
+        "message": "Kasus"
+    },
+    "recovered": {
+        "message": "Pulih"
+    },
+    "deaths": {
+        "message": "Kematian"
+    },
+    "more": {
+        "message": "Pilih lebih banyak negara"
+    },
+    "placeholder_search": {
+        "message": "Negara..."
+    },
+    "all_world":{
+        "message": "Seluruh dunia"
+    },
+    "delete":{
+        "message": "Hapus"
+    },
+    "update":{
+        "message": "Dimutakhirkan"
+    },
+    "timezone":{
+        "message": "China Waktu"
+    },
+    "one_more_country":{
+        "message": "Pilih sebuah negara"
+    },
+    "loading":{
+        "message": "Memuat..."
+    },
+    "find":{
+        "message": " sudah dipilih"  
+    },
+    "zone":{
+      "message": "Daerah"
+    }
+}

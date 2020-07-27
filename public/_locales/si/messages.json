@@ -1,0 +1,53 @@
+{
+    "extension_description": {
+        "message": "ලබා COVID-19 සැබෑ කාලය දත්ත"
+    },
+    "extension_title": {
+        "message": "Coronavirus දීර්ඝ"
+    },
+    "title_first": {
+        "message": "සංඛ්යා ලේඛන"
+    },
+    "title_last": {
+        "message": "Coronavirus"
+    },
+    "confirmed": {
+        "message": "නඩු"
+    },
+    "recovered": {
+        "message": "සොයා"
+    },
+    "deaths": {
+        "message": "මරණ"
+    },
+    "more": {
+        "message": "තෝරන්න තවත් රටවල්"
+    },
+    "placeholder_search": {
+        "message": "රටේ..."
+    },
+    "all_world":{
+        "message": "ලොව පුරා"
+    },
+    "delete":{
+        "message": "මකා"
+    },
+    "update":{
+        "message": "යාවත්කාලීන කිරීම"
+    },
+    "timezone":{
+        "message": "චීනය කාලය"
+    },
+    "one_more_country":{
+        "message": "රට තෝරන්න"
+    },
+    "loading":{
+        "message": "පැටවීම..."
+    },
+    "find":{
+        "message": " දැනටමත් තෝරාගෙන ඇත"  
+    },
+    "zone": {
+        "message": "කලාපය"
+    }
+}

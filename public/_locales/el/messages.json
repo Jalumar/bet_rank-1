@@ -1,0 +1,53 @@
+{
+    "extension_description": {
+        "message": "Αποκτήστε δεδομένα COVID-19 σε πραγματικό χρόνο"
+    },
+    "extension_title": {
+        "message": "Επέκταση Κοροναϊού"
+    },
+    "title_first": {
+        "message": "Στατιστική"
+    },
+    "title_last": {
+        "message": "Κοροναϊός"
+    },
+    "confirmed": {
+        "message": "Περίπτωση"
+    },
+    "recovered": {
+        "message": "Ανακτηθεί"
+    },
+    "deaths": {
+        "message": "Θάνατος"
+    },
+    "more": {
+        "message": "Επιλέξτε περισσότερες χώρες"
+    },
+    "placeholder_search": {
+        "message": "Χώρα..."
+    },
+    "all_world":{
+        "message": "Παγκόσμια"
+     },
+    "delete":{
+        "message": "Επιλέξτε μια χώρα"
+    },
+    "update":{
+        "message": "Ενημερωμένο"
+    },
+    "timezone":{
+        "message": "Ώρα Της Κίνας"
+    },
+    "one_more_country":{
+        "message": "Επιλέξτε μια χώρα"
+    },
+    "loading":{
+        "message": "Φόρτωση..."
+    },
+    "find":{
+        "message": " έχει ήδη επιλεγεί"  
+    },
+    "zone":{
+      "message": "Ζώνη"
+    }
+}

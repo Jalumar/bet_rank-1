@@ -1,0 +1,25 @@
+extends ../templates/header
+
+block content
+  main(class='bet-container')
+    section(class='bet-section')
+      if message.length > 0
+        aside(class='alert alert-success' role='alert')= message
+      
+      div(class='bet-wrap-frm')
+        h3.bet-label Iniciar Sesi&oacute;n
+        form(action='http://localhost:3000/auth/signin' class='bet-frm'  method='post' autocomplete='off' enctype='application/x-www-form-urlencoded')
+          fieldset(class='frm-group-col')
+            //- label(for="email")= 'Email'
+            input(type='email' name='username' id='email' placeholder='Email' class='frm-control' pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,}$" required)
+          fieldset(class='frm-group-col')
+            //- label(for="password")= 'Password'
+            input(type='password' name='password' id='password' placeholder='Password' class='frm-control' pattern="[A-Za-z- ]{5,}" title="Ingrese primer Nombre seguido de un espacio y su primer apellido" required)
+            span#view-pass.view-pass(hidde) <i class="far fa-eye-slash"></i>
+          button(type="submit" id='bet-submit' class='bet-btn')= 'Iniciar Sesion'
+
+        a(href='http://localhost:3000/auth/recover' id="forgot-pass" class="forgot") Olvidaste tu contraseña?
+      if authmessage.length > 0
+        aside(class='alert alert-danger' role='alert')= authmessage
+        
+  include ../templates/footer

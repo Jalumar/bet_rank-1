@@ -1,0 +1,53 @@
+{
+    "extension_description": {
+        "message": "Získat data COVID-19 v reálném čase"
+    },
+    "extension_title": {
+        "message": "Rozšíření Coronaviru"
+    },
+    "title_first": {
+        "message": "Statistik"
+    },
+    "title_last": {
+        "message": "Koronavirus"
+    },
+    "confirmed": {
+        "message": "Věc"
+    },
+    "recovered": {
+        "message": "Získán"
+    },
+    "deaths": {
+        "message": "Droga"
+    },
+    "more": {
+        "message": "Vyberte více zemí"
+    },
+    "placeholder_search": {
+        "message": "Zem..."
+    },
+    "all_world":{
+        "message": "Celosvětový"
+    },
+    "delete":{
+        "message": "Odstranit"
+    },
+    "update":{
+        "message": "Aktualizace"
+    },
+    "timezone":{
+        "message": "China Čas"
+    },
+    "one_more_country":{
+        "message": "Vyberte zemi"
+    },
+    "loading":{
+        "message": "Načítání..."
+    },
+    "find":{
+        "message": " je již vybrána"  
+    },
+    "zone":{
+      "message": "Pásmo"
+    }
+}

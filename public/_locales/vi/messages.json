@@ -1,0 +1,53 @@
+{
+    "extension_description": {
+        "message": "Được COVID-19 dữ liệu trong thời gian thực"
+    },
+    "extension_title": {
+        "message": "Kế Hoạch Mở Rộng"
+    },
+    "title_first": {
+        "message": "Số liệu thống kê"
+    },
+    "title_last": {
+        "message": "Kế hoạch"
+    },
+    "confirmed": {
+        "message": "Trường hợp"
+    },
+    "recovered": {
+        "message": "Phục hồi"
+    },
+    "deaths": {
+        "message": "Cái chết"
+    },
+    "more": {
+        "message": "Chọn nhiều quốc gia"
+    },
+    "placeholder_search": {
+        "message": "Đất nước..."
+    },
+    "all_world":{
+        "message": "Trên toàn thế giới"
+    },
+    "delete":{
+        "message": "Xóa"
+    },
+    "update":{
+        "message": "Cập nhật"
+    },
+    "timezone":{
+        "message": "Trung Quốc Thời Gian"
+    },
+    "one_more_country":{
+        "message": "Chọn một Quốc gia"
+    },
+    "loading":{
+        "message": "Nạp..."
+    },
+    "find":{
+        "message": " đã được chọn"  
+    },
+    "zone":{
+        "message": "Khu"
+    }
+}

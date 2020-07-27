@@ -1,0 +1,53 @@
+{
+    "extension_description": {
+        "message": "الحصول على بيانات COVID-19 في الوقت الحقيقي"
+    },
+    "extension_title": {
+        "message": "امتداد الفيروس التاجي"
+    },
+    "title_first": {
+        "message": "الإحصاءات"
+    },
+    "title_last": {
+        "message": "فيروس كوروني"
+    },
+    "confirmed": {
+        "message": "القضايا"
+    },
+    "recovered": {
+        "message": "مسترجع"
+    },
+    "deaths": {
+        "message": "الوفيات"
+    },
+    "more": {
+        "message": "اختر المزيد من البلدان"
+    },
+    "placeholder_search": {
+        "message": "البلد..."
+    },
+    "all_world":{
+        "message": "ألف-على الصعيد العالمي"
+                },
+    "delete":{
+        "message": "احذف"
+    },
+    "update":{
+        "message": "تحديث"
+    },
+    "timezone":{
+        "message": "توقيت الصين"
+    },
+    "one_more_country":{
+        "message": "انتق البلد"
+    },
+    "loading":{
+        "message": "(كارجاندو).."
+    },
+    "find":{
+        "message": " محدد بالفعل"  
+    },
+    "zone":{
+        "message": "منطقة"
+    }
+}

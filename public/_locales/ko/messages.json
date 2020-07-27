@@ -1,0 +1,53 @@
+{
+    "extension_description": {
+        "message": "COVID-19 데이터 가져 오기 실시간"
+    },
+    "extension_title": {
+        "message": "코로나 바이러스 연장"
+    },
+    "title_first": {
+        "message": "통계"
+    },
+    "title_last": {
+        "message": "코로나바이러스"
+    },
+    "confirmed": {
+        "message": "케이스"
+    },
+    "recovered": {
+        "message": "복구됨"
+    },
+    "deaths": {
+        "message": "사망"
+    },
+    "more": {
+        "message": "국가를 더 선정하십시오"
+    },
+    "placeholder_search": {
+        "message": "국가..."
+    },
+    "all_world":{
+        "message": "전세계"
+         },
+    "delete":{
+        "message": "삭제"
+    },
+    "update":{
+        "message": "업데이트 됨"
+    },
+    "timezone":{
+        "message": "중국 시간"
+    },
+    "one_more_country":{
+        "message": "국가 선택"
+    },
+    "loading":{
+        "message": "불러오는 중..."
+    },
+    "find":{
+        "message": " 이미 선택되었습니다"
+    },
+    "zone":{
+      "message": "존"
+    }
+}

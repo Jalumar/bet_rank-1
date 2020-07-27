@@ -1,0 +1,19 @@
+doctype html
+html
+  head
+    title= title
+    link(rel='stylesheet', href='../stylesheets/reset.css', media="all")
+    link(rel='stylesheet', href='../stylesheets/style.css', media="all")
+    
+    //- Font Awesome Icons
+    link(rel="stylesheet", href="../fonts/fontawesome-5.14.0-web/css/all.min.css")
+
+    //- Scripts
+    script(src="../javascripts/modules.js") 
+
+    script. 
+         const objMods = Module
+
+  body
+    include nav
+    block content

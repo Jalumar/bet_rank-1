@@ -1,0 +1,53 @@
+{
+    "extension_description": {
+        "message": "Obțineți datele COVID-19 în timp real"
+    },
+    "extension_title": {
+        "message": "Extensia coronavirusului"
+    },
+    "title_first": {
+        "message": "Statistici"
+    },
+    "title_last": {
+        "message": "Coronavirus"
+    },
+    "confirmed": {
+        "message": "Cazuri"
+    },
+    "recovered": {
+        "message": "Recuperat"
+    },
+    "deaths": {
+        "message": "Decese"
+    },
+    "more": {
+        "message": "Selectați mai multe țări"
+    },
+    "placeholder_search": {
+        "message": "Ţară..."
+    },
+    "all_world":{
+        "message": "Mondial"
+         },
+    "delete":{
+        "message": "Ștergere"
+    },
+    "update":{
+        "message": "Actualizat"
+    },
+    "timezone":{
+        "message": "China Timp"
+    },
+    "one_more_country":{
+        "message": "Selectați o țară"
+    },
+    "loading":{
+        "message": "Se încarcă..."
+    },
+    "find":{
+        "message": " este deja selectat"  
+    },
+    "zone":{
+      "message": "Zona"
+    }
+}

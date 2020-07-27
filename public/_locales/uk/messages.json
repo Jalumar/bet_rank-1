@@ -1,0 +1,53 @@
+{
+    "extension_description": {
+        "message": "Отримати дані COVID-19 в режимі реального часу"
+    },
+    "extension_title": {
+        "message": "Поширення Коронавірусу"
+    },
+    "title_first": {
+        "message": "Статистика"
+    },
+    "title_last": {
+        "message": "Коронавірус"
+    },
+    "confirmed": {
+        "message": "Випадок"
+    },
+    "recovered": {
+        "message": "Відновлений"
+    },
+    "deaths": {
+        "message": "Смерть"
+    },
+    "more": {
+        "message": "Вибрати кілька країн"
+    },
+    "placeholder_search": {
+        "message": "Країна..."
+    },
+    "all_world":{
+        "message": "Загальносвітовий"
+    },
+    "delete":{
+        "message": "Видалити"
+    },
+    "update":{
+        "message": "Оновлений"
+    },
+    "timezone":{
+        "message": "Китайський Час"
+    },
+    "one_more_country":{
+        "message": "Виберіть країну"
+    },
+    "loading":{
+        "message": "Вантаження..."
+    },
+    "find":{
+        "message": " вже вибрано"  
+    },
+    "zone":{
+        "message": "Зона"
+    }
+}

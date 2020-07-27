@@ -1,0 +1,53 @@
+{
+    "extension_description": {
+        "message": "实时获取COVID-19数据"
+    },
+    "extension_title": {
+        "message": "冠状病毒扩展"
+    },
+    "title_first": {
+        "message": "统计"
+    },
+    "title_last": {
+        "message": "冠状病毒"
+    },
+    "confirmed": {
+        "message": "案例"
+    },
+    "recovered": {
+        "message": "恢复"
+    },
+    "deaths": {
+        "message": "死亡"
+    },
+    "more": {
+        "message": "选择更多国家"
+    },
+    "placeholder_search": {
+        "message": "国家。.."
+    },
+    "all_world":{
+        "message": "全球"
+    },
+    "delete":{
+        "message": "删除"
+    },
+    "update":{
+        "message": "更新"
+    },
+    "timezone":{
+        "message": "中国时间"
+    },
+    "one_more_country":{
+        "message": "选择国家/地区"
+    },
+    "loading":{
+        "message": "卡甘多.."
+    },
+    "find":{
+        "message": " 已被選中"  
+    },
+    "zone":{
+        "message": "區"
+    }
+}

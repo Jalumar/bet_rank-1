@@ -1,0 +1,53 @@
+{
+    "extension_description": {
+        "message": "Ottenere dati COVID-19 in tempo reale"
+    },
+    "extension_title": {
+        "message": "Estensione Coronavirus"
+    },
+    "title_first": {
+        "message": "Statistiche"
+    },
+    "title_last": {
+        "message": "Coronavirus"
+    },
+    "confirmed": {
+        "message": "Casi"
+    },
+    "recovered": {
+        "message": "Recuperato"
+    },
+    "deaths": {
+        "message": "Morti"
+    },
+    "more": {
+        "message": "Seleziona altri paesi"
+    },
+    "placeholder_search": {
+        "message": "Paese..."
+    },
+    "all_world":{
+        "message": "In tutto il mondo"
+    },
+    "delete":{
+        "message": "Cancellare"
+    },
+    "update":{
+        "message": "Aggiornato"
+    },
+    "timezone":{
+        "message": "Ora della Cina"
+    },
+    "one_more_country":{
+        "message": "Seleziona un paese"
+    },
+    "loading":{
+        "message": "Caricamento..."
+    },
+    "find":{
+        "message": " è già selezionato"  
+    },
+    "zone":{
+      "message": "Zona"  
+    }
+}

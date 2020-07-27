@@ -1,0 +1,53 @@
+{
+    "extension_description": {
+        "message": "Атрымаць дадзеныя COVID-19 у рэжыме рэальнага часу"
+    },
+    "extension_title": {
+        "message": "Распаўсюджванне Каронавіруса"
+    },
+    "title_first": {
+        "message": "Статыстыка"
+    },
+    "title_last": {
+        "message": "Каронавірус"
+    },
+    "confirmed": {
+        "message": "Выпадак"
+    },
+    "recovered": {
+        "message": "Адноўлены"
+    },
+    "deaths": {
+        "message": "Смерць"
+    },
+    "more": {
+        "message": "Выбраць некалькі краін"
+    },
+    "placeholder_search": {
+        "message": "Краіна..."
+    },
+    "all_world":{
+        "message": "Агульнасусветны"
+    },
+    "delete":{
+        "message": "Выдаліць"
+    },
+    "update":{
+        "message": "Абноўлены"
+    },
+    "timezone":{
+        "message": "Кітайскае Час"
+    },
+    "one_more_country":{
+        "message": "Выберыце краіну"
+    },
+    "loading":{
+        "message": "Пагрузка..."
+    },
+    "find":{
+        "message": " ужо абраны"  
+    },
+    "zone":{
+        "message": "Зона"
+    }
+}

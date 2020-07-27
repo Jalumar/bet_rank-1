@@ -1,0 +1,10 @@
+extends templates/header
+
+block content
+  h1 Pagina de Inicio
+  if isAuthenticated
+    p= `Bienvenido ${user.nombre}`
+  
+  p= `IP : ${ip}`
+
+  include templates/footer

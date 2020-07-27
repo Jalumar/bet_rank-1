@@ -1,0 +1,53 @@
+{
+    "extension_description": {
+        "message": "COVID-19データをリアルタイムで取得"
+    },
+    "extension_title": {
+        "message": "コロナウイルスの増殖"
+    },
+    "title_first": {
+        "message": "統計"
+    },
+    "title_last": {
+        "message": "コロナウイルス"
+    },
+    "confirmed": {
+        "message": "ケース"
+    },
+    "recovered": {
+        "message": "回収"
+    },
+    "deaths": {
+        "message": "死"
+    },
+    "more": {
+        "message": "より多くの国を選択"
+    },
+    "placeholder_search": {
+        "message": "国。.."
+    },
+    "all_world":{
+        "message": "世界中の"
+    },
+    "delete":{
+        "message": "削除"
+    },
+    "update":{
+        "message": "更新"
+    },
+    "timezone":{
+        "message": "中国時間"
+    },
+    "one_more_country":{
+        "message": "国を選択する"
+    },
+    "loading":{
+        "message": "読み込み..."
+    },
+    "find":{
+        "message": " すでに選択されています"  
+    },
+    "zone":{
+        "message": "ゾーン"
+    }
+}

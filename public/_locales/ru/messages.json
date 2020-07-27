@@ -1,0 +1,53 @@
+{
+    "extension_description": {
+        "message": "Получить данные COVID-19 в режиме реального времени"
+    },
+    "extension_title": {
+        "message": "Распространение Коронавируса"
+    },
+    "title_first": {
+        "message": "Статистика"
+    },
+    "title_last": {
+        "message": "Коронавирус"
+    },
+    "confirmed": {
+        "message": "Случаи"
+    },
+    "recovered": {
+        "message": "Восстановленный"
+    },
+    "deaths": {
+        "message": "Смерти"
+    },
+    "more": {
+        "message": "Выбрать несколько стран"
+    },
+    "placeholder_search": {
+        "message": "Страна..."
+    },
+    "all_world":{
+        "message": "Общемировой"
+    },
+    "delete":{
+        "message": "Удалить"
+    },
+    "update":{
+        "message": "Обновленный"
+    },
+    "timezone":{
+        "message": "Китайское Время"
+    },
+    "one_more_country":{
+        "message": "Выберите страну"
+    },
+    "loading":{
+        "message": "Погрузка..."
+    },
+    "find":{
+        "message": " уже выбран"  
+    },
+    "zone":{
+      "message": "зона"  
+    }
+}

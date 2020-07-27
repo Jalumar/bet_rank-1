@@ -1,0 +1,53 @@
+{
+    "extension_description": {
+        "message": "Covid-19 verilerini gerçek zamanlı olarak alın"
+    },
+    "extension_title": {
+        "message": "Koronavirüs Uzantısı"
+    },
+    "title_first": {
+        "message": "İstatistik"
+    },
+    "title_last": {
+        "message": "Koronavirüs"
+    },
+    "confirmed": {
+        "message": "Durumlar"
+    },
+    "recovered": {
+        "message": "Telafi"
+    },
+    "deaths": {
+        "message": "Ölümler"
+    },
+    "more": {
+        "message": "Daha fazla ülke seçin"
+    },
+    "placeholder_search": {
+        "message": "Ülke..."
+    },
+    "all_world":{
+        "message": "Dünya çapında"
+    },
+    "delete":{
+        "message": "Silmek"
+    },
+    "update":{
+        "message": "Güncel"
+    },
+    "timezone":{
+        "message": "China Zaman"
+    },
+    "one_more_country":{
+        "message": "Bir ülke seçin"
+    },
+    "loading":{
+        "message": "Yük..."
+    },
+    "find":{
+        "message": " zaten seçildi"  
+    },
+    "zone": {
+        "message": "Bölge"
+    }
+}

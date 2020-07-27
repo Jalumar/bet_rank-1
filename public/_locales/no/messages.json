@@ -1,0 +1,53 @@
+{
+    "extension_description": {
+        "message": "Få COVID-19 data i sanntid"
+    },
+    "extension_title": {
+        "message": "Coronavirus Extension"
+    },
+    "title_first": {
+        "message": "Statistikk"
+    },
+    "title_last": {
+        "message": "Coronavirus"
+    },
+    "confirmed": {
+        "message": "Tilfelle"
+    },
+    "recovered": {
+        "message": "Utvinnes"
+    },
+    "deaths": {
+        "message": "Død"
+    },
+    "more": {
+        "message": "Velg flere land"
+    },
+    "placeholder_search": {
+        "message": "Land..."
+    },
+    "all_world":{
+        "message": "Verdensomspennende"
+    },
+    "delete":{
+        "message": "Slette"
+    },
+    "update":{
+        "message": "Oppdatert"
+    },
+    "timezone":{
+        "message": "Kina Tid"
+    },
+    "one_more_country":{
+        "message": "Velg Land"
+    },
+    "loading":{
+        "message": "Lasting..."
+    },
+    "find":{
+        "message": " er allerede valgt"  
+    },
+    "zone":{
+      "message": "Sone"
+    }
+}
